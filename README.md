@@ -1,4 +1,4 @@
-# OIBSIP Quiz App
+# Quiz App Flutter
 
 The OIBSIP Quiz App is a mobile application built using Flutter. This app allows users to answer quiz questions on various topics and test their knowledge.
 
